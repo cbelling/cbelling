@@ -1,13 +1,8 @@
 # Austin Bellinger
 
-Right now I'm working on [Filter](https://getfilter.ai), an agentic workspace for everything you follow online: RSS, newsletters, X, papers, podcasts, PDFs, and the rest of the daily information flood.
+Management consultant who likes to build things.
 
-I'm especially interested in:
-
-- coding agents and local agent runtimes
-- AI-native reading, triage, and synthesis workflows
-- tools that help people think better instead of just consume more
-- practical product systems at the edge of software, strategy, and automation
+Core interests: agentic systems, agentic coding, technical product management/product engineering, and enterprise AI deployment.
 
 ## Current Work
 
@@ -17,7 +12,7 @@ I'm especially interested in:
 
 ## Recent Writing
 
-- [Introduction to Local Coding Agents](https://austinbellinger.com) - a four-layer framework for understanding local coding agents across hardware, runtime, model, and harness
+- [Introduction to Local Coding Agents](https://austinbellinger.com/local-agents) - a four-layer framework for understanding local coding agents across hardware, runtime, model, and harness
 
 ## Elsewhere
 
