@@ -1,7 +1,5 @@
 # Austin Bellinger
 
-I'm building with agents.
-
 Right now I'm working on [Filter](https://getfilter.ai), an agentic workspace for everything you follow online: RSS, newsletters, X, papers, podcasts, PDFs, and the rest of the daily information flood.
 
 I'm especially interested in:
