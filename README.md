@@ -1,14 +1,10 @@
 # Austin Bellinger
 
-Management consultant who likes to build things.
-
-Core interests: agentic systems, agentic coding, technical product management/product engineering, and enterprise AI deployment.
-
 ## Current Work
 
 - [Filter](https://getfilter.ai) - an agentic workspace for online reading and research
 - [filter-cli](https://github.com/cbelling/filter-cli) - a command-line client for the Filter API, built for agents and scripts
-- [Writing](https://austinbellinger.com) - notes on agents, systems, books, and whatever else I am trying to understand clearly
+- [Writing](https://austinbellinger.com) - notes on agents, systems, books
 
 ## Recent Writing
 
