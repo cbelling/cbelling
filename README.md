@@ -15,4 +15,3 @@
 
 - Website: [austinbellinger.com](https://austinbellinger.com)
 - LinkedIn: [Austin Bellinger](https://www.linkedin.com/in/austinbellinger/)
-- X: [@austinbelling](https://x.com/austinbelling)
